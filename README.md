@@ -19,7 +19,7 @@ The effectiveness of the model is demonstrated visually through
 comparisons between generated and real masks. Improved dental
 imaging is made possible by this research, opening the door for
 uses like tooth anomaly detection.
-our approach offers an automated tooth mask generation system that makes use of GANs. The dental industry
+our approach offers an automated tooth mask generation system that makes use of GANs. The dental industry
 stands to gain greatly from this, as it provides a way to improve
 treatment planning and diagnosis. Although there are still issues
 with data variability and model scalability, this work lays the
